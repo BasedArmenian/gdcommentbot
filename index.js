@@ -2,11 +2,11 @@ const axios = require('axios');
 const crypto = require('crypto');
 
 const config = {
-    username:   "BasedArmenian21",   // Your gd username
-    accountID:  "29456302",  // Your gd account ID
-    password:   "jameezDashes21",   // Your gd password
-    text:       "Turn to Christ, my friend, or His suffering for you was in vain.",  // The text you want to comment
-    percentage: "99",          // Percent
+    username:   "username",   // Your gd username
+    accountID:  "accountID",  // Your gd account ID
+    password:   "password",   // Your gd password
+    text:       "text.",  // The text you want to comment
+    percentage: "0",          // Percent
     secret:     "Wmfd2893gb7",  // Don't change if you don't know what it means (but you probably know if you found this file lmao)
     loopInterval: 16_000        // Time to wait before each comment in milliseconds.
 }
