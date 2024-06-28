@@ -3,6 +3,8 @@ Instructions:
 - Download as zip
 - Expand zip
 - Install Node (https://nodejs.org/en/download/prebuilt-installer), IF you don't already have it
+- Then, open "index.js" in whatever editor, and change the Username, Account ID (You can find it on GDBROWSER), Password, the Comment, Percentage, et cetera. (make sure they still have quotation marks around them)
+- DONT CHANGE THE SECRET!
 - Run "node index.js" in your Terminal
 
 ERRORS:
